@@ -6,7 +6,7 @@ Welcome to machine-learning-engineer!
 ## :rocket: Let's Get Started! 
 
 <details>
-  <summary>Windows</summary>
+  <p>Windows</p>
 
 
 * Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) using Powershell
@@ -30,7 +30,7 @@ Continue by installing the following tools using [Windows Terminal](https://www.
 </details>
 
 <details>
-  <summary>Linux (Debian/Ubuntu)</summary><br>
+  <p>Linux (Debian/Ubuntu)</p><br>
 
 Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -40,7 +40,7 @@ Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the fol
 </details>
 
 <details>
-  <summary>macOS</summary><br>
+  <p>macOS</p><br>
 
 Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -59,37 +59,4 @@ If you don't already have one, make an account on [Github](https://github.com/)
 Login and click on the top right user icon, then go to `repositories`. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37101144/162326947-3bfb4451-9854-41e8-9014-a02ed1322d66.png">
-</p>
-</details>
-
-
-<details>
-  <summary>Creating a New Repository</summary><br>
-
-When viewing the respository page, click on `New` and proceed to create your repo.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37101144/162327218-e1429ab2-2b24-4822-95bf-4411c2eb4a84.png">
-</p>
-<hr>
-
-**Filling Respository Details**
-
-Create the repository by inputting the following:
-* `Repo name`
-* `Repo description`
-* Make repo `public`
-* Add a `README`
-* Add `.gitignore` (Python template)
-* Add `license` (choose MIT)
-
-Then click `Create Repository`.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37101144/162327471-262a0931-c188-4976-8185-e70c4d108f71.png">
-</p>
-
-</details>
-
-### That's it for now!  And so it begins.... :)
+  <img src="https://user-image
