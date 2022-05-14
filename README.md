@@ -5,8 +5,7 @@ Welcome to machine-learning-engineer!
 
 ## :rocket: Let's Get Started! 
 
-<details>
-  <p>Windows</p>
+<p>Windows</p>
 
 
 * Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) using Powershell
@@ -29,8 +28,7 @@ Continue by installing the following tools using [Windows Terminal](https://www.
 | :octocat: **Git**  | Version Control | `sudo apt update && sudo apt upgrade` <br> `sudo apt install git-all`   |
 </details>
 
-<details>
-  <p>Linux (Debian/Ubuntu)</p><br>
+<p>Linux (Debian/Ubuntu)</p><br>
 
 Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -39,8 +37,7 @@ Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the fol
 | :octocat: **Git**  | Version Control | `sudo apt update && sudo apt upgrade` <br> `sudo apt install git-all`   |
 </details>
 
-<details>
-  <p>macOS</p><br>
+<p>macOS</p><br>
 
 Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -53,8 +50,7 @@ Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter t
 
 If you don't already have one, make an account on [Github](https://github.com/)
 
-<details>
-  <summary>Viewing the Repositories</summary><br>
+<summary>Viewing the Repositories</summary><br>
 
 Login and click on the top right user icon, then go to `repositories`. 
 
