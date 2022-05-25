@@ -127,6 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # mac
 .DS_Store
+=======
+secrets.py
+>>>>>>> ba16686 (update .gitignore)
