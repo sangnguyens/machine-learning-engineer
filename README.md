@@ -5,7 +5,11 @@ Welcome to machine-learning-engineer!
 
 ## :rocket: Let's Get Started! 
 
+<<<<<<< HEAD
 <h2>Installation on Windows</h2>
+=======
+<p>Windows</p>
+>>>>>>> bc65ce9 (update readme)
 
 
 * Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) using Powershell
@@ -27,7 +31,11 @@ Continue by installing the following tools using [Windows Terminal](https://www.
 | :snake: **Anaconda**  | Python & ML Toolkits | `wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh` <br> `bash Anaconda3-2021.11-Linux-x86_64.sh` <br> `source ~/.bashrc` |
 | :octocat: **Git**  | Version Control | `sudo apt update && sudo apt upgrade` <br> `sudo apt install git-all`   |
 
+<<<<<<< HEAD
 <h2>Installation on Linux (Debian/Ubuntu)</h2><br>
+=======
+<p>Linux (Debian/Ubuntu)</p><br>
+>>>>>>> bc65ce9 (update readme)
 
 Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -35,7 +43,11 @@ Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the fol
 | :snake: **Anaconda**  | Python & ML Toolkits | `wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh` <br> `bash Anaconda3-2021.11-Linux-x86_64.sh` <br> `source ~/.bashrc` |
 | :octocat: **Git**  | Version Control | `sudo apt update && sudo apt upgrade` <br> `sudo apt install git-all`   |
 
+<<<<<<< HEAD
 <h2>macOS</h2><br>
+=======
+<p>macOS</p><br>
+>>>>>>> bc65ce9 (update readme)
 
 Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -46,8 +58,13 @@ Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter t
 ## <img src="https://octodex.github.com/images/original.png" width=40px/> Finally, make sure that GitHub is ready to roll
 
 If you don't already have one, make an account on [Github](https://github.com/)
+<<<<<<< HEAD
 <details>
   <summary>Creating a New Repository</summary><br>
+=======
+
+<summary>Viewing the Repositories</summary><br>
+>>>>>>> bc65ce9 (update readme)
 
 When viewing the respository page, click on `New` and proceed to create your repo.
 
