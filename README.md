@@ -6,10 +6,14 @@ Welcome to machine-learning-engineer!
 ## :rocket: Let's Get Started! 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2>Installation on Windows</h2>
 =======
 <p>Windows</p>
 >>>>>>> bc65ce9 (update readme)
+=======
+<h2>Installation on Windows</h2>
+>>>>>>> 3100ec8 (update readme)
 
 
 * Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) using Powershell
@@ -32,10 +36,14 @@ Continue by installing the following tools using [Windows Terminal](https://www.
 | :octocat: **Git**  | Version Control | `sudo apt update && sudo apt upgrade` <br> `sudo apt install git-all`   |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2>Installation on Linux (Debian/Ubuntu)</h2><br>
 =======
 <p>Linux (Debian/Ubuntu)</p><br>
 >>>>>>> bc65ce9 (update readme)
+=======
+<h2>Installation on Linux (Debian/Ubuntu)</h2><br>
+>>>>>>> 3100ec8 (update readme)
 
 Open terminal using <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>T</kbd>. Enter the following commands in terminal to setup your environment. When prompted, make sure to add `conda` to `init`.
 | Tool | Purpose | Command                                                                                           |
@@ -59,6 +67,7 @@ Open terminal using <kbd>⌘</kbd>+<kbd>Space</kbd> and type `terminal`. Enter t
 
 If you don't already have one, make an account on [Github](https://github.com/)
 <<<<<<< HEAD
+<<<<<<< HEAD
 <details>
   <summary>Creating a New Repository</summary><br>
 =======
@@ -68,10 +77,18 @@ If you don't already have one, make an account on [Github](https://github.com/)
 
 When viewing the respository page, click on `New` and proceed to create your repo.
 
+=======
+<details>
+  <summary>Creating a New Repository</summary><br>
+
+When viewing the respository page, click on `New` and proceed to create your repo.
+
+>>>>>>> 3100ec8 (update readme)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37101144/162327218-e1429ab2-2b24-4822-95bf-4411c2eb4a84.png">
 </p>
 <hr>
+<<<<<<< HEAD
 
 **Filling Respository Details**
 
@@ -83,6 +100,19 @@ Create the repository by inputting the following:
 * Add `.gitignore` (Python template)
 * Add `license` (choose MIT)
 
+=======
+
+**Filling Respository Details**
+
+Create the repository by inputting the following:
+* `Repo name`
+* `Repo description`
+* Make repo `public`
+* Add a `README`
+* Add `.gitignore` (Python template)
+* Add `license` (choose MIT)
+
+>>>>>>> 3100ec8 (update readme)
 Then click `Create Repository`.
 
 <p align="center">
